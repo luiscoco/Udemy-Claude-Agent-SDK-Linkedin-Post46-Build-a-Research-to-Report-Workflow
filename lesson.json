@@ -1,0 +1,16 @@
+{
+  "lesson": 45,
+  "title": "Build a Research-to-Report Workflow",
+  "application": "Cited Research Brief",
+  "purpose": "Track source IDs from local evidence collection through findings and a report, then check citation coverage.",
+  "exercise": "Add an unsupported source ID to a finding. Confirm the workflow rejects it before report writing.",
+  "source_topics": [
+    "00-Flujo multiagente para investigación con Claude.png",
+    "01-Design-the-Research-to-Report-System.png",
+    "02-Collect-Sources-You-Can-Trace.png",
+    "03-Turn-Evidence-into-Supported-Findings.png",
+    "04-Write-a-Report-with-an-Evidence-Trail.png",
+    "05-Orchestrate-the-Workflow-Reliably.png",
+    "06-Review-Measure-and-Improve-the-Report.png"
+  ]
+}

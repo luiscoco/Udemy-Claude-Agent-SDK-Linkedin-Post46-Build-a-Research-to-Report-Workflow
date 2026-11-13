@@ -1,0 +1,26 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "findings",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "findings",
+    "elapsed_seconds": 0.00026
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "report",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "report",
+    "elapsed_seconds": 2e-05
+  }
+]

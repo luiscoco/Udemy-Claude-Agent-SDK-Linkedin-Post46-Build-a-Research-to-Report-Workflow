@@ -1,0 +1,13 @@
+{
+  "topic": "Read-only project inspection",
+  "sources": [
+    {
+      "id": "S1",
+      "text": "Glob finds file paths."
+    },
+    {
+      "id": "S2",
+      "text": "Read retrieves file contents."
+    }
+  ]
+}

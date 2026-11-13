@@ -1,0 +1,23 @@
+{
+  "lesson": 45,
+  "application": "Cited Research Brief",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "findings": {
+      "claims": [
+        {
+          "text": "Glob finds file paths.",
+          "source_id": "S1"
+        },
+        {
+          "text": "Read retrieves file contents.",
+          "source_id": "S2"
+        }
+      ]
+    },
+    "report": "Glob finds file paths. [S1]\nRead retrieves file contents. [S2]",
+    "citation_coverage": true
+  },
+  "measured_cost_usd": null
+}
